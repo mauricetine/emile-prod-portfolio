@@ -150,7 +150,7 @@ export default function Home() {
                     <span className="font-medium">Français :</span> Niveau assez bon
                   </div>
                   <div>
-                    <span className="font-medium">Anglais :</span> Bon niveau
+                    <span className="font-medium">Anglais :</span> Niveau moyen
                   </div>
                 </div>
               </div>
